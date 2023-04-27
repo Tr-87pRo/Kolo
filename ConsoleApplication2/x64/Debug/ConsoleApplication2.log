@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\gracj\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(44,43): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\gracj\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(62,25): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\gracj\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(66,9): warning C4101: "wylosowane_punkty": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\gracj\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(65,10): warning C4101: "litera": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\gracj\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(146,34): warning C4101: "trafione": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication2.vcxproj -> C:\Users\gracj\Desktop\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
